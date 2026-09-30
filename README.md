@@ -14,3 +14,4 @@ Each one automates a real workflow step and is measured against my own manual ba
 | 7 | Job search agent (case study) | Planned |
 
 All data is public or synthetic. No employer or client content.
+Portfolio overview: https://balanced-eyeliner-b7d.notion.site/Anastasia-s-AI-Workflow-Portfolio-3eba2dc9dba980a8a104c138c855eca2
