@@ -5,7 +5,7 @@ Each one automates a real workflow step and is measured against my own manual ba
 
 | # | Project | Status |
 |---|---------|--------|
-| 1 | AI translation quality benchmark | In progress |
+| 1 | AI translation quality benchmark | (https://github.com/lapulikovs/ai-translation-quality-benchmark/tree/main) |
 | 2 | Automated LQA pipeline | Planned |
 | 3 | Meeting-to-action agent | Planned |
 | 4 | Translator context generator | Planned |
