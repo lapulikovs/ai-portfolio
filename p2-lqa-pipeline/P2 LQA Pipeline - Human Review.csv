@@ -1,0 +1,3 @@
+id,locale,engine,error_count,highest_severity,categories,issues_summary,judge_confidence,judge_model,run_date
+R157,ru-RU,Claude,1,Critical,Accuracy,"[Critical/Accuracy] ""которые присущи"" - the translation stops mid-sentence and drops the end of the clause (""inherent, rather than socially conditioned""), so the claim is incomplete and the contrast with social conditioning is lost.",high,Claude Sonnet 5.5,2026-10-07
+R123,ru-RU,DeepL,1,Major,Accuracy,"[Major/Accuracy] ""из его магазина, расположенного в гараже"" - ""shop"" here means a workshop (мастерская), not a retail store; ""магазин"" changes the meaning and makes the reader stumble, since a store in a garage is odd.",high,Claude Sonnet 5.5,2026-10-07

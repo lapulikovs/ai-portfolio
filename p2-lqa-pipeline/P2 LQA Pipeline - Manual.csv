@@ -1,0 +1,9 @@
+id,highest severity,categories,notes
+F01,Minor,"Fluency, Terminology",
+F03,Major,"Accuracy, Style",
+F04,Minor,Terminology,
+F05,Minor,Style,
+F06,Minor,Fluency,
+F08,Major,Terminology,
+F09,Minor,Fluency,
+F10,Major,Accuracy,

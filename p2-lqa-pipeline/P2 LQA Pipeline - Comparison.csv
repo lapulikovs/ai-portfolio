@@ -1,0 +1,25 @@
+id,my_severity,judge_severity,match
+F01,Minor,None,0
+F02,None,None,1
+F03,Major,Minor,0
+F04,Minor,None,0
+F05,Minor,Minor,1
+F06,Minor,None,0
+F07,None,None,1
+F08,Major,Minor,0
+F09,Minor,None,0
+F10,Major,None,0
+,,,3
+,,,
+Measure,Value,,
+Manual review (10 segments),10 min 12 s,,
+Manual per segment,61 s,,
+Pipeline run time (10 segments),"14,3 s",,
+Pipeline per segment,"1,4 s",,
+API cost (10 segments),$0.05,,
+API cost per segment,$0.01,,
+Pipeline + human review total,"14,3 s",,
+Severity matches (of 10),3,,
+Major/critical I found that the judge missed,2,,
+Tokens in,"1,117 per segment",,
+Tokens out,292 per segment,,
