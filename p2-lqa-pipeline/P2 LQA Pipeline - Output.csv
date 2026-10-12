@@ -1,0 +1,21 @@
+id,locale,engine,error_count,highest_severity,categories,issues_summary,judge_confidence,judge_model,run_date
+R157,ru-RU,Claude,1,Critical,Accuracy," [Critical/Accuracy] ""которые присущи"" - the translation stops mid-sentence and drops the end of the clause (""inherent, rather than socially conditioned""), so the claim is incomplete and the contrast with social conditioning is lost.",high,Sonnet 5.5,2026-10-07
+R064,ru-RU,Claude,1,Minor,Fluency," [Minor/Fluency] ""которые им незнакомы по родным местам"" - the phrase ""незнакомы по родным местам"" is unidiomatic and awkward in Russian. The meaning is still recoverable. A more natural version would be ""с которыми они не сталкивались у себя на родине"".",high,Sonnet 5.5,2026-10-07
+R111,ru-RU,DeepL,0,None,, ,high,Sonnet 5.5,2026-10-07
+R023,ru-RU,ChatGPT,0,None,None, ,high,Sonnet 5.5,2026-10-07
+R071,ru-RU,ChatGPT,1,Minor,Locale convention," [Minor/Locale convention] ""более 100 футов"" - Imperial units are left unconverted for ru-RU, where metric is standard (about 30 метров). The meaning is preserved, so this is minor, and it depends on whether the project style guide requires unit conversion.",low,Sonnet 5.5,2026-10-07
+R096,ru-RU,DeepL,0,None,, ,high,Sonnet 5.5,2026-10-07
+R002,ru-RU,ChatGPT,0,None,None, ,high,Sonnet 5.5,2026-10-07
+R097,ru-RU,Claude,1,Minor,Accuracy," [Minor/Accuracy] ""по подтверждённым данным, погибли"" - the source's ""so far"" (the toll is provisional and may rise) is not rendered; ""на данный момент"" or ""пока"" is missing. The meaning is otherwise intact.",high,Sonnet 5.5,2026-10-07
+R049,ru-RU,Claude,0,None,None, ,high,Sonnet 5.5,2026-10-07
+R123,ru-RU,DeepL,1,Major,Accuracy," [Major/Accuracy] ""из его магазина, расположенного в гараже"" - ""shop"" here means a workshop (мастерская), not a retail store; ""магазин"" changes the meaning and makes the reader stumble, since a store in a garage is odd.",high,Sonnet 5.5,2026-10-07
+F01,ru-RU,DeepL,0,None,None, ,high,Sonnet 5.5,2026-10-08
+F02,ru-RU,DeepL,0,None,None, ,high,Sonnet 5.5,2026-10-08
+F03,ru-RU,DeepL,1,Minor,Accuracy," [Minor/Accuracy] ""Супружеская пара"" - narrows ""couple"" to a married couple, which the source does not say; ""пара"" alone would be neutral.",low,Sonnet 5.5,2026-10-08
+F04,ru-RU,DeepL,0,None,None, ,high,Sonnet 5.5,2026-10-08
+F05,ru-RU,DeepL,1,Minor,Fluency," [Minor/Fluency] ""и привело к получению четырьмя людьми лёгких ожогов"" - the verb ""привело"" is repeated and the nominalization ""к получению"" is clunky; ""и четыре человека получили лёгкие ожоги"" would read more naturally",high,Sonnet 5.5,2026-10-08
+F06,ru-RU,DeepL,0,None,None, ,high,Sonnet 5.5,2026-10-08
+F07,ru-RU,DeepL,0,None,None, ,high,Sonnet 5.5,2026-10-08
+F08,ru-RU,DeepL,1,Minor,Terminology," [Minor/Terminology] ""марий"" - The established Russian term for lunar maria is ""лунные моря"" (genitive plural ""морей""). The transliterated genitive plural ""марий"" is non-standard and may make a general reader stumble. Meaning is still recoverable, and the glossary may allow the Latin loan.",low,Sonnet 5.5,2026-10-08
+F09,ru-RU,DeepL,0,None,None, ,high,Sonnet 5.5,2026-10-08
+F10,ru-RU,DeepL,0,None,None, ,high,Sonnet 5.5,2026-10-08
