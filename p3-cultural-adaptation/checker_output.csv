@@ -1,0 +1,41 @@
+id,flag,category,reason,suggested_fix,confidence
+C06,yes,superstition,"In Russia, even numbers of flowers are for funerals. A dozen roses as a gift reads as mourning.","Use an odd number, e.g. ""Удивите её букетом из 11 алых роз"", or drop the count.",high
+C24,no,none,-,-,high
+C16,yes,superstition,Yellow flowers in Russia are widely read as a sign of separation or infidelity. They're a poor romantic gift.,"Change the color, e.g. ""букетом нежных весенних цветов"" or pink/white flowers.",medium
+C19,yes,tone,"You go, girl! is American sassy slang with no natural Russian equivalent. Literal rendering sounds odd or patronizing.","Use direct encouragement, e.g. ""Вы справитесь! Достигайте своих целей.""",medium
+C09,yes,idiom,Piece of cake doesn't work literally in Russian and would read as being about dessert.,"Use ""проще простого"" or ""пользоваться легко"".",medium
+C11,yes,humor/pun,Lettuce/Let us wordplay is untranslatable. The joke disappears in Russian.,"Drop the pun and lead with the offer, e.g. ""Время салатов! Скидка 20% на все салаты.""",high
+C39,no,none,-,-,medium
+C07,yes,superstition,Whistling indoors is believed in Russia to drive money away. An office whistling image hits that directly. The Disney song reference is also weak.,"Drop the whistling, e.g. ""Работайте под хорошую музыку: новый офисный плейлист уже здесь.""",medium
+C22,no,none,-,-,high
+C15,yes,sports,"The Super Bowl is not a meaningful cultural event in Russia, so the comparison doesn't land.","Use a neutral superlative, e.g. ""Распродажа года!""",high
+C33,yes,brand name,Fitta is vulgar slang for female genitalia in Swedish and Norwegian.,"Use a different name in Nordic markets. Honda sold the Fit there as ""Jazz"".",high
+C10,yes,idiom,Miss the boat doesn't carry over literally in Russian.,"Use ""Не упустите шанс: распродажа заканчивается в пятницу.""",medium
+C30,no,none,-,-,high
+C29,no,none,-,-,high
+C35,yes,idiom,"Literal rendering famously came out as ""eat your fingers off"" in Chinese. The idiom doesn't survive translation.","Use an established equivalent, e.g. ""吮指回味，自在滋味"" or a simple ""美味可口"".",high
+C34,no,none,-,-,medium
+C01,yes,sports,"Baseball idiom; baseball is niche in Russia, so the metaphor won't land when rendered literally.","Drop the sports image and use a neutral success phrase, e.g. ""Добейтесь большего с нашим новым планировщиком.""",high
+C18,yes,holiday/date,Spring break is a US college tradition with no Russian counterpart. Russian spring school holidays are short and not tied to beach trips.,"Reframe around a local occasion, e.g. May holidays: ""Майские праздники скоро! Бронируйте отдых на море.""",high
+C36,yes,idiom,"Literal Spanish renderings of ""turn it loose"" (e.g. ""suéltalo"") can read as ""get diarrhea"", a known slogan failure.","Use a different energetic line, e.g. ""Déjate llevar"" or ""Libera tu energía"".",high
+C27,no,none,-,-,high
+C03,yes,holiday/date,"Russia celebrates Mother's Day on the last Sunday of November, not in May. A May 10 date would confuse readers.","Use the Russian date, or retarget the May campaign to March 8 (International Women's Day).",high
+C26,no,none,-,-,high
+C31,yes,idiom,"Assume nothing is terse and easy to mistranslate as ""do nothing"". This is a known slogan failure.","Brief translators on the intended meaning (""don't take anything for granted"") and adapt per market, not literally.",medium
+C21,no,none,-,-,high
+C23,no,none,-,-,high
+C37,yes,false friend,"Embarrass is easily rendered as ""embarazar"", which means ""to get pregnant"" in Spanish.","Use ""avergonzar"" or rephrase, e.g. ""No se derramará en tu bolsillo ni te hará pasar vergüenza.""",high
+C17,yes,imagery,Peanut butter and jelly sandwiches are not a familiar Russian lunch staple. The reference falls flat.,"Use a familiar food, e.g. ""Возьмите бутерброды в дорогу"" (sandwiches) or a generic lunch.",high
+C38,yes,idiom,"Come alive was famously rendered in Chinese as ""brings your ancestors back from the grave"".","Adapt the meaning, not the words, e.g. a youth/energy line like ""新一代的选择"".",high
+C05,yes,sports,"American football is niche in Russia, so the touchdown metaphor won't land.","Use a neutral phrase, e.g. ""Выгодная экономия с этими скидками.""",high
+C32,yes,brand name,"Pajero is vulgar slang in many Spanish-speaking markets (Mitsubishi famously sold it there as ""Montero"").","Use an alternate market name for Spanish-speaking markets, such as ""Montero"".",high
+C20,yes,tone,"In Russia, constant smiling at strangers can read as insincere or odd. A ""big smile"" promise may not land as warmth.","Emphasize attentive, friendly service instead, e.g. ""Наши сотрудники всегда рады вам помочь.""",medium
+C02,yes,humor/pun,Nuts about (crazy about) plays on almonds being nuts. The wordplay is lost in Russian.,"Drop the pun, e.g. ""Мы обожаем миндаль.""",high
+C08,yes,tone,Hey buddy is overly familiar for Russian customer messaging and forces an awkward ты-form.,"Use a neutral, polite form, e.g. ""Ваш заказ доставлен!""",medium
+C40,no,none,-,-,medium
+C25,no,none,-,-,high
+C28,no,none,-,-,high
+C14,yes,sports,"Baseball is niche in Russia, so the home run metaphor won't land.","Use a neutral phrase, e.g. ""Сделайте свою следующую презентацию блестящей.""",high
+C12,yes,humor/pun,Un-brie-lievable is cheese wordplay that can't be translated.,"Drop the pun, e.g. ""Невероятные скидки на сыр.""",high
+C13,yes,holiday/date,Thanksgiving is not celebrated in Russia.,"Tie the bundle to a local occasion, e.g. New Year, or present it as a family dinner set.",high
+C04,yes,holiday/date,"Most Russians celebrate Orthodox Christmas on January 7. New Year is the main gift holiday, and December 25 is a regular workday.","Reframe around New Year, e.g. ""С Новым годом! Бесплатная доставка до 31 декабря.""",high

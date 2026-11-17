@@ -1,0 +1,41 @@
+id,snippet,target_market,group,expected_flag,category,why
+C01,Knock it out of the park with our new planner.,ru-RU,planted,yes,idiom,"Baseball idiom; baseball is barely known in Russia, so the image means nothing and a literal translation sounds odd."
+C02,We're nuts about almonds.,ru-RU,planted,yes,humor/pun,Nuts pun (crazy + nuts) can't be kept in Russian; needs a new joke or plain copy.
+C03,Mother's Day is May 10. Order her gift now!,ru-RU,planted,yes,holiday/date,"Russia celebrates Mother's Day on the last Sunday of November, not in May."
+C04,Merry Christmas! Free delivery on December 25.,ru-RU,planted,yes,holiday/date,"Orthodox Christmas is January 7; New Year is the main gift holiday, so Dec 25 is the wrong hook."
+C05,Score a touchdown with these savings.,ru-RU,planted,yes,sports,American football is not widely followed; the metaphor won't land.
+C06,Surprise her with a dozen red roses.,ru-RU,planted,yes,imagery,An even number of flowers is for funerals in Russia; gifts use odd numbers.
+C07,Whistle while you work. Our new office playlist is here.,ru-RU,planted,yes,superstition,Whistling indoors is believed to bring money loss; an odd thing to encourage at work.
+C08,"Hey buddy, your order's here!",ru-RU,planted,yes,tone,Forces a ты/вы choice; overly familiar tone can feel disrespectful for many brands.
+C09,Our new budgeting app is a piece of cake.,ru-RU,planted,yes,idiom,"Piece of cake means nothing literally in Russian; needs a local equivalent like ""проще простого""."
+C10,Don't miss the boat: the sale ends Friday.,ru-RU,planted,yes,idiom,Nautical idiom has no Russian equivalent; a literal translation reads as nonsense.
+C11,Lettuce celebrate! 20% off all salads.,ru-RU,planted,yes,humor/pun,Lettuce/let us pun only works in English; needs new wordplay or plain copy.
+C12,Our cheese deals are un-brie-lievable.,ru-RU,planted,yes,humor/pun,Brie pun can't survive translation; the joke disappears.
+C13,Give thanks with our Thanksgiving dinner bundle.,ru-RU,planted,yes,holiday/date,Thanksgiving isn't celebrated in Russia; the whole campaign hook is irrelevant.
+C14,Hit a home run with your next presentation.,ru-RU,planted,yes,sports,Baseball metaphor; unfamiliar to most Russian readers.
+C15,It's the Super Bowl of sales!,ru-RU,planted,yes,sports,US-specific sports event; little cultural weight in Russia.
+C16,Brighten her day with a bouquet of yellow flowers.,ru-RU,planted,yes,imagery,Yellow flowers are traditionally associated with separation; risky for a romantic gift message.
+C17,Pack a PB&J for the road. Our lunchboxes keep it fresh!,ru-RU,planted,yes,imagery,"Peanut butter and jelly sandwiches aren't a common Russian staple; the everyday image doesn't resonate and ""PB&J"" is unknown."
+C18,Spring break is coming! Book your beach getaway now.,ru-RU,planted,yes,holiday/date,Spring break is a US college tradition with no Russian equivalent; school holidays in Russia run on a different calendar and aren't tied to beach trips.
+C19,"You go, girl! Crush your goals.",ru-RU,planted,yes,tone,Slangy cheerleading tone has no natural equivalent; sounds forced or patronizing in Russian.
+C20,Smile! Our staff greet every guest with a big smile.,ru-RU,planted,borderline,tone,Constant smiling at strangers can read as insincere in Russian culture; depends on brand and context.
+C21,Your order has shipped and will arrive in 3–5 business days.,ru-RU,clean,no,none,Neutral transactional text; nothing culturally specific.
+C22,Reset your password using the link below.,ru-RU,clean,no,none,Standard account message; translates directly.
+C23,Your subscription renews automatically each month.,ru-RU,clean,no,none,Plain billing information; no cultural reference.
+C24,Thank you for your feedback. Our team will review it shortly.,ru-RU,clean,no,none,"Polite, neutral customer service text."
+C25,New features are now available. Update the app to try them.,ru-RU,clean,no,none,Neutral product update; no idioms or references.
+C26,Your profile is 80% complete. Add a photo to finish.,ru-RU,clean,no,none,Simple progress message; nothing market-specific.
+C27,We couldn't process your payment. Please check your card details.,ru-RU,clean,no,none,Clear error message; neutral tone.
+C28,Save your favorite items to view them later.,ru-RU,clean,no,none,Basic feature description; translates directly.
+C29,Your account settings have been updated.,ru-RU,clean,no,none,Confirmation message; nothing to adapt.
+C30,Need help? Contact our support team any time.,ru-RU,clean,no,none,Standard support line; neutral and universal.
+C31,Assume nothing.,multiple,famous,yes,idiom,"DOCUMENTED: HSBC slogan reported to render as ""Do nothing"" in several markets; HSBC replaced it in its 2009 rebrand."
+C32,Pajero,es (Spanish-speaking markets),famous,yes,brand name,"DOCUMENTED: Mitsubishi Pajero; ""pajero"" is vulgar slang in Spanish, so the model was sold as ""Montero"" there."
+C33,Fitta,sv/no (Nordic markets),famous,yes,brand name,"DOCUMENTED: Honda's planned name for the Jazz/Fit; vulgar slang in Nordic languages, renamed before launch."
+C34,Coca-Cola,zh-CN,famous,yes,brand name,"PARTLY TRUE: shopkeepers' phonetic signs reportedly read like ""bite the wax tadpole""; the company itself chose 可口可乐 (""delicious happiness"")."
+C35,Finger-lickin' good.,zh-CN,famous,yes,idiom,"DISPUTED: KFC slogan said to have come out as ""eat your fingers off"" in China; widely repeated, sourcing is thin."
+C36,Turn it loose.,es-ES,famous,yes,idiom,"DISPUTED: Coors slogan said to read as ""suffer from diarrhea"" in Spanish; commonly cited, weak sourcing."
+C37,It won't leak in your pocket and embarrass you.,es-MX,famous,yes,false friend,"DISPUTED: Parker Pen story; ""embarazar"" means ""to make pregnant"", not ""embarrass"". Likely apocryphal but the false friend is real."
+C38,Come alive with the Pepsi Generation.,zh-CN,famous,yes,idiom,"DISPUTED: said to have become ""Pepsi brings your ancestors back from the grave""; probably a legend."
+C39,Benz,zh-CN,famous,yes,brand name,"DISPUTED: early transliteration ""Bensi"" reportedly sounded like ""rush to die""; brand uses 奔驰 (Benchi) today."
+C40,Nova,es-MX,famous,no,brand name,"MYTH: the Chevy Nova ""no va"" (""doesn't go"") story is false; ""nova"" and ""no va"" read differently and the car sold well in Latin America."

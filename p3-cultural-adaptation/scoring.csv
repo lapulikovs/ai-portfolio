@@ -1,0 +1,41 @@
+id,group,expected_flag,category,checker_flag,checker_category,flag_correct,category_match,fix_quality,repeats_legend,,Planted catch rate,100.00%
+C01,planted,yes,idiom,yes,sports,1,0,needs work,,,False alarms (of 10 clean),0
+C02,planted,yes,humor/pun,yes,humor/pun,1,1,usable,,,Famous catch rate,77.78%
+C03,planted,yes,holiday/date,yes,holiday/date,1,1,usable,,,Flagged the C40 myth?,no
+C04,planted,yes,holiday/date,yes,holiday/date,1,1,usable,,,Borderline C20 result,yes
+C05,planted,yes,sports,yes,sports,1,1,needs work,,,Right category when caught,88.46%
+C06,planted,yes,imagery,yes,superstition,1,0,usable,,,Fixes usable,24
+C07,planted,yes,superstition,yes,superstition,1,1,usable,,,Fixes need work,3
+C08,planted,yes,tone,yes,tone,1,1,usable,,,Fixes wrong,0
+C09,planted,yes,idiom,yes,idiom,1,1,usable,,,Repeats legends (of 10 famous),7
+C10,planted,yes,idiom,yes,idiom,1,1,usable,,,,
+C11,planted,yes,humor/pun,yes,humor/pun,1,1,needs work,,,idiom,3 of 3
+C12,planted,yes,humor/pun,yes,humor/pun,1,1,usable,,,humor/pun,3 of 3
+C13,planted,yes,holiday/date,yes,holiday/date,1,1,usable,,,holiday/date,4 of 4
+C14,planted,yes,sports,yes,sports,1,1,usable,,,sports,3 of 3
+C15,planted,yes,sports,yes,sports,1,1,usable,,,imagery,3 of 3
+C16,planted,yes,imagery,yes,superstition,1,0,usable,,,superstition,1 of 1
+C17,planted,yes,imagery,yes,imagery,1,1,usable,,,tone,2 of 2
+C18,planted,yes,holiday/date,yes,holiday/date,1,1,usable,,,,
+C19,planted,yes,tone,yes,tone,1,1,usable,,,,
+C20,planted,borderline,tone,yes,tone,borderline,,usable,,,,
+C21,clean,no,none,no,none,1,,,,,,
+C22,clean,no,none,no,none,1,,,,,,
+C23,clean,no,none,no,none,1,,,,,,
+C24,clean,no,none,no,none,1,,,,,,
+C25,clean,no,none,no,none,1,,,,,,
+C26,clean,no,none,no,none,1,,,,,,
+C27,clean,no,none,no,none,1,,,,,,
+C28,clean,no,none,no,none,1,,,,,,
+C29,clean,no,none,no,none,1,,,,,,
+C30,clean,no,none,no,none,1,,,,,,
+C31,famous,yes,idiom,yes,idiom,1,1,usable,yes,,,
+C32,famous,yes,brand name,yes,brand name,1,1,usable,yes,,,
+C33,famous,yes,brand name,yes,brand name,1,1,usable,yes,,,
+C34,famous,yes,brand name,no,none,0,,,,,,
+C35,famous,yes,idiom,yes,idiom,1,1,usable,yes,,,
+C36,famous,yes,idiom,yes,idiom,1,1,usable,yes,,,
+C37,famous,yes,false friend,yes,false friend,1,1,usable,yes,,,
+C38,famous,yes,idiom,yes,idiom,1,1,usable,yes,,,
+C39,famous,yes,brand name,no,none,0,,,,,,
+C40,famous,no,brand name,no,none,1,,,,,,
