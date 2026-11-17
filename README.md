@@ -1,13 +1,13 @@
 # AI Portfolio
 
-AI-projects built between September 29 and October 28, 2026.
+AI-projects built in 2026.
 Each one automates a real workflow step and is measured against my own manual baseline.
 
 | # | Project | Status |
 |---|---------|--------|
 | 1 | AI translation quality benchmark | (https://github.com/lapulikovs/ai-translation-quality-benchmark/tree/main) |
 | 2 | Automated LQA pipeline | (https://github.com/lapulikovs/ai-portfolio/tree/main/p2-lqa-pipeline) |
-| 3 | Meeting-to-action agent | Planned |
+| 3 | Cultural adaptation | Planned |
 | 4 | Translator context generator | Planned |
 | 5 | Localization scoping agent | Planned |
 | 6 | Terminology mining and governance agent | Planned |
